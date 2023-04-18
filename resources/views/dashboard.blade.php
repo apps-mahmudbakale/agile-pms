@@ -115,20 +115,7 @@
             <div class="col-lg-9">
               <div class="pt-5">
                 <div>
-                 <table class="table table-striped">
-                    <thead>
-                        <th>S/N</th>
-                        <th>Name</th>
-                        <th></th>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>1</td>
-                            <td>Bakale</td>
-                            <td><button class="btn btn-success">view</button></td>
-                        </tr>
-                    </tbody>
-                 </table>
+                    <h2>Progress & Analytics goes Here!</h2>
                 </div>
               </div>
             </div>
